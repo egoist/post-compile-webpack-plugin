@@ -1,6 +1,6 @@
 # post-compile-webpack-plugin
 
-[![NPM version](https://img.shields.io/npm/v/post-compile-webpack-plugin.svg?style=flat-square)](https://npmjs.com/package/post-compile-webpack-plugin) [![NPM downloads](https://img.shields.io/npm/dm/post-compile-webpack-plugin.svg?style=flat)](https://npmjs.com/package/post-compile-webpack-plugin) [![Build Status](https://img.shields.io/circleci/project/EGOIST/post-compile-webpack-plugin/master.svg?style=flat)](https://circleci.com/gh/EGOIST/post-compile-webpack-plugin) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/EGOIST/donate)
+[![NPM version](https://img.shields.io/npm/v/post-compile-webpack-plugin.svg?style=flat-square)](https://npmjs.com/package/post-compile-webpack-plugin) [![NPM downloads](https://img.shields.io/npm/dm/post-compile-webpack-plugin.svg?style=flat)](https://npmjs.com/package/post-compile-webpack-plugin) [![Build Status](https://img.shields.io/circleci/project/egoit/post-compile-webpack-plugin/master.svg?style=flat)](https://circleci.com/gh/egoist/post-compile-webpack-plugin) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
 ## Install
 
