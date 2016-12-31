@@ -10,6 +10,9 @@
     "test": "npm run lint",
     "lint": "xo"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "EGOIST <0x142857@gmail.com>",
   "license": "MIT",
   "devDependencies": {
