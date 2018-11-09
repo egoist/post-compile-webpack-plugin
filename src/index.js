@@ -4,9 +4,11 @@ module.exports = class PostCompile {
   }
 
   apply(compiler) {
+    var self = this
+
     const handler = stats => {
       if (typeof this.fn === 'function') {
-        this.fn(stats)
+        setTimeout(() => self.fn(stats))
       }
     }
 
