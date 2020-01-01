@@ -25,6 +25,33 @@ module.exports = {
 }
 ```
 
+## Options
+You can pass options object as the second parameter
+
+| Name        | Type           | Default  |
+| ------------- |:-------------:| -----:|
+| onlyFirstTime |     boolean   |       false|
+
+### onlyFirstTime
+
+This option can be useful on `--watch` mode. <br>
+If you want the post compile hook to happend only after first compile.
+
+Code example
+
+```js
+module.exports = {
+  plugins: [
+    new PostCompile(() => {
+      console.log('Your app is running at http://localhost:4000')
+    },{
+      onlyFirstTime: true
+    })
+  ]
+}
+```
+
+
 ## Contributing
 
 1. Fork it!
